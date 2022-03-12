@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import random
 # Create your views here.
-flag = 'technex{Sample_flag}'
+flag = 'technex{Oh_th3_numb3rs&&mods!!}'
 
 idx = 6969 + (random.randint(-69696969696, -696969) % 6969 + 6969) % 696
 
